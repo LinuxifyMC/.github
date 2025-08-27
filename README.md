@@ -1,2 +1,0 @@
-# .github
-LinuxifyMC Profile README
